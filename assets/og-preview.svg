@@ -1,0 +1,37 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1050" cy="150" r="280" fill="#6366f1" opacity="0.15" />
+  <circle cx="150" cy="500" r="320" fill="#06b6d4" opacity="0.12" />
+  
+  <g transform="translate(100, 140)">
+    <rect width="72" height="72" rx="18" fill="url(#brandGrad)" />
+    <path d="M38 14 L20 40 L34 40 L30 60 L52 32 L38 32 Z" fill="#ffffff" />
+    <text x="96" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="-1">StudySprint</text>
+    
+    <text x="0" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-1.5">
+      Turn studying into small,
+    </text>
+    <text x="0" y="215" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="52" font-weight="800" fill="#38bdf8" letter-spacing="-1.5">
+      achievable wins.
+    </text>
+    
+    <text x="0" y="290" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#94a3b8" font-weight="400">
+      Free student study planner • Smart queue • Deadlines • 10-Minute Missions
+    </text>
+
+    <g transform="translate(0, 340)">
+      <rect width="260" height="56" rx="14" fill="url(#brandGrad)" />
+      <text x="130" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Start 10-Minute Mission</text>
+    </g>
+  </g>
+</svg>
