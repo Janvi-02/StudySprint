@@ -18,7 +18,7 @@ StudySprint is a simple web-based productivity tool designed to help students or
 
 ## 🌐 Live Demo
 
-[StudySprint](https://janviaggarwal.github.io/StudySprint/)
+[StudySprint](https://janvi-02.github.io/StudySprint/)
 
 ## 📂 Project Structure
 
